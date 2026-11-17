@@ -15,7 +15,7 @@ public:
     virtual ~Shape() {}
 };
 
-// Circle Class
+// Circle Classs
 class Circle : public Shape
 {
     float radius;
