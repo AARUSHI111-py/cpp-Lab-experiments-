@@ -25,7 +25,7 @@ public:
     }
 };
 
-// Derived class - Single Inheritance
+// Derived class - Single Inheritancee
 class Student : public Person
 {
 protected:
